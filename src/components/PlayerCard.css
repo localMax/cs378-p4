@@ -1,0 +1,57 @@
+/* Player Card Container */
+.player-card {
+    padding: 1rem;
+    border: 1px solid #e2e8f0;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    max-width: 24rem;
+    margin: 0 auto;
+  }
+
+  .player-avatar {
+    width: 6rem;
+    height: 6rem;
+    border-radius: 9999px;
+    margin: 0 auto;
+  }
+
+  .player-username {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-top: 1rem;
+    text-align: center;
+  }
+
+  .player-title {
+    font-size: 0.875rem;
+    text-align: center;
+  }
+
+  .chess-ratings {
+    margin-top: 1rem;
+  }
+  
+  .chess-ratings h3 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    text-align: center;
+  }
+  .tactics {
+    margin-top: 1rem;
+  }
+  
+  .tactics h3 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    text-align: center;
+  }
+
+  .puzzle-rush {
+    margin-top: 1rem;
+  }
+  
+  .puzzle-rush h3 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    text-align: center;
+  }
